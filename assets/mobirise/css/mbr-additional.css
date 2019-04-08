@@ -1826,6 +1826,9 @@ body {
 .cid-rmZh6gZaxX .mbr-section-subtitle B {
   color: #ffffff;
 }
+.cid-rmZh6gZaxX .mbr-section-subtitle DIV {
+  color: #ffffff;
+}
 .cid-rmZmWN64BV {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2113,7 +2116,7 @@ body {
 }
 .cid-rmZhCkyXwQ {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/wind-1180x898.jpg");
 }
 .cid-rmZhCkyXwQ H2 {
@@ -2124,6 +2127,9 @@ body {
   color: #073b4c;
 }
 .cid-rmZhCkyXwQ .mbr-section-subtitle B {
+  color: #ffffff;
+}
+.cid-rmZhCkyXwQ .mbr-section-subtitle DIV {
   color: #ffffff;
 }
 .cid-rn11yhJtlc {
@@ -2163,7 +2169,7 @@ body {
   border-radius: 50%;
 }
 .cid-rn11yhJtlc .mbr-text B {
-  color: #ffffff;
+  color: #767676;
 }
 .cid-rn11yhJtlc .mbr-text LI {
   color: #767676;
