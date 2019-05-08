@@ -883,7 +883,7 @@
               "color": "#646968"
             },
             "B": {
-              "color": "#767676"
+              "color": "#232323"
             }
           },
           "_name": "header3",
@@ -1250,10 +1250,10 @@
               }
             },
             "H1": {
-              "color": "#232323"
+              "color": "#646968"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#767676"
+              "color": "#646968"
             }
           },
           "_name": "header3",
