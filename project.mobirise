@@ -615,7 +615,7 @@
             }
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#45505b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Headed engineering calculations to design motors, burners, pumps, centrifugal fans, and ductwork of &nbsp;<b>Tier 1 &amp; Tier 2 automotive paint finishing equipment</b> like pre-treatment washer, ovens, and booths in accordance with <b>ASHRAE standards.</b>\n</li><li>Identified and effectively solved a major design bottleneck generating a<b> $20k</b> loss using <b>DMAIC principle.\n</b></li><li>Implemented new standard file templates and standardized folder management system to improve the efficiency of the team by <b>30%</b>. Handled the site survey and assisted the quality team with the final start-up of the paint finishing system.\n</li><li>Collaborated with sales, manufacturing, and installation team to <b>Design to Cost, Design for Manufacturability and Design for Assembly. </b>Drafted and generated bills of material and 2D drawings for parts and assemblies on <b>AutoCAD</b> and <b>SolidWorks</b>.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#45505b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li>Headed engineering calculations to design motors, burners, pumps, centrifugal fans, and ductwork of &nbsp;<b>Tier 1 &amp; Tier 2 automotive paint finishing equipment</b> like pre-treatment washer, ovens, and booths in accordance with <b>ASHRAE standards.</b>\n</li><li>Identified and effectively solved a major design bottleneck generating a<b> $20k</b> loss using <b>DMAIC principle.</b></li><li>Eliminated a <b>$35k inventory waste</b>&nbsp;using <b>Fishbone Diagram</b> and optimized inventory space by <b>20%&nbsp;</b></li><li>Implemented new standard file templates like <b style=\"font-size: 0.9rem;\">Purchase Reqisition Form (PRF), Engineering Change Order (ECO), Site Survey Checklist,</b><span style=\"font-size: 0.9rem;\"> and standardized folder management system and project protocol to improve the efficiency of the team by </span><b style=\"font-size: 0.9rem;\">30%</b><span style=\"font-size: 0.9rem;\">.</span></li><li>Handled the site survey and assisted the quality team with the final start-up of the paint finishing system.\n</li><li>Collaborated with sales, manufacturing, and installation team to <b>Design to Cost, Design for Manufacturability and Design for Assembly. </b>Drafted and generated bills of material and 2D drawings for parts and assemblies on <b>AutoCAD</b> and <b>SolidWorks</b>.</li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rNC6G1Y7jE",
           "_anchor": "content11-1v",
           "_protectedParams": [],
@@ -694,7 +694,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "rNC9xfq1bM",
           "_anchor": "gallery1-1w",
           "_protectedParams": [
@@ -728,12 +728,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/close-view-1-2000x1074.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/close-view-1-2000x1074-800x429.jpg",
+                "image": "@PROJECT_PATH@/assets/images/co-as-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/co-as-2000x1545-800x569.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "AUTOMATED MINI IR OVEN&nbsp;",
+                "caption": "CURE OVEN",
                 "active": false
               },
               {
@@ -741,12 +741,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/indexer-2000x1545.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/indexer-2000x1545-800x619.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mb-2000x1020.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mb-2000x1020-800x520.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CONVEYOR SYSTEM",
+                "caption": "LIGHT INSPECTION TUNNEL",
                 "active": false
               },
               {
@@ -767,12 +767,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/abc-2000x1003.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abc-2000x1003-800x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fishbone-diagram-1105x767.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fishbone-diagram-1105x767-800x556.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "DUCTWORK",
+                "caption": "FISHBONE DIAGRAM FOR INVENTORY WASTE",
                 "active": false
               },
               {
@@ -780,12 +780,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/iso-view-1699x1826.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/iso-view-1699x1826-800x1148.jpg",
+                "image": "@PROJECT_PATH@/assets/images/co-1-1636x2028.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/co-1-1636x2028-800x908.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "HOOK FOR PART CONVEYOR",
+                "caption": "ENGINEERING CHANGE ORDER",
                 "active": false
               },
               {
@@ -793,12 +793,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1003.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1003-800x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ssc-1098x1423.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ssc-1098x1423-800x1036.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "ROTATORS- POWDER BOOTH",
+                "caption": "SITE SURVEY CHECKLIST",
                 "active": false
               },
               {
@@ -806,12 +806,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1121.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1121-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/prf-2000x1861.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/prf-2000x1861-800x1139.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "ROTATORS- ISO VIEW",
+                "caption": "PURCHASE REQUISITION FORM",
                 "active": false
               }
             ]
