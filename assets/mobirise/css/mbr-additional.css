@@ -1811,6 +1811,35 @@ body {
     margin: auto;
   }
 }
+.cid-ssjbnyNTbE {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-ssjbnyNTbE .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ssjbnyNTbE .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-ssjbnyNTbE .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-ssjbnyNTbE H1 {
+  color: #232323;
+  text-align: center;
+}
+.cid-ssjbnyNTbE .mbr-text,
+.cid-ssjbnyNTbE .mbr-section-btn {
+  color: #646968;
+}
 .cid-rNC4IvWChw {
   padding-top: 90px;
   padding-bottom: 90px;
